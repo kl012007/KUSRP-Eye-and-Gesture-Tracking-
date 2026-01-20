@@ -123,6 +123,3 @@ pip install -r requirements.txt
 
 - Main menu prototype  
   ![Main menu prototype](images/menu.png)
-
-## Acknowledgements
-Based on the MediaPipe hand-gesture pipeline from Kazuhito Takahashi (https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe) and the English translation by Nikita Kiselov. This repo adapts that work for gaze tracking and gesture-driven games.
